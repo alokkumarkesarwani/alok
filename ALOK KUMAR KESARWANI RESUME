@@ -1,0 +1,37 @@
+{
+  "name": "Alok Kumar Kesarwani",
+  "headline": "Tax & Accounts Professional — GST, TDS, Accounting (10+ years)",
+  "email": "alokkumarkesarwani@gmail.com",
+  "phone": "9389824621",
+  "location": "Prayagraj / India",
+  "linkedin": "https://linkedin.com/in/alok-kumar-kesarwani-b3b820107",
+  "summary": "Detail-oriented Tax & Accounts Professional with 10+ years of experience in GST compliance, Indian indirect taxation, TDS, reconciliations, drafting, tax documentation, and ERP-driven financial operations. Strong understanding of GST laws and compliance.",
+  "experience": [
+    {
+      "title": "Accountant",
+      "company": "Saket Advertising Pvt. Ltd.",
+      "period": "June 2016 – Present",
+      "details": "Managed end-to-end GST compliance (GSTR-1, GSTR-3B), reconciliations (GSTR-2A/2B), GST working papers, advisory documentation, vendor reconciliations and SAP/ERP workflows."
+    },
+    {
+      "title": "Accountant cum Auditor",
+      "company": "Uday Pratap & Co. (CA Firm)",
+      "period": "Jul 2013 – May 2016",
+      "details": "Bookkeeping, vouching, VAT filing, audit support, financial statements and tax audits assistance."
+    },
+    {
+      "title": "Accountant Assistant",
+      "company": "Raja Ram Ram Prakash",
+      "period": "Mar 2012 – Jun 2013",
+      "details": "Managed stock registers, party ledgers, bank reconciliations and daily accounting operations."
+    }
+  ],
+  "education": [
+    {"degree":"M.Com","institution":"UP Rajarshi Tandon Open University","year":"2015"},
+    {"degree":"B.Com","institution":"University of Allahabad","year":"2011"}
+  ],
+  "certifications": ["Diploma in Computer Application","Certificate in Cyber Security Management (MSME, Allahabad)","SAP FICO on HANA – SAP Training Academy, New Delhi"],
+  "skills": ["GST Compliance & Advisory","TDS & Income Tax Compliance","Accounting & Reconciliation","Tally / ERP","MS Excel","Drafting & Reporting"],
+  "resumeUrl": "/mnt/data/Alok_Kesarwani_Resume.pdf",
+  "repoEditUrl": "https://github.com/alokkumarkesarwani/alok/edit/main/profile.json"
+}
